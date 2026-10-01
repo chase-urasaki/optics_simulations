@@ -1,0 +1,12 @@
+hw_5.ipynb filter=lfs diff=lfs merge=lfs -text
+atmospheric_turbulence_NCPAs.ipynb filter=lfs diff=lfs merge=lfs -text
+DrWHO.ipynb filter=lfs diff=lfs merge=lfs -text
+FPWFS.ipynb filter=lfs diff=lfs merge=lfs -text
+HCIPy_example.ipynb filter=lfs diff=lfs merge=lfs -text
+toy_models.ipynb filter=lfs diff=lfs merge=lfs -text
+Untitled-2.ipynb filter=lfs diff=lfs merge=lfs -text
+wfs.ipynb filter=lfs diff=lfs merge=lfs -text
+atmospheric_turbulence.ipynb filter=lfs diff=lfs merge=lfs -text
+dm.ipynb filter=lfs diff=lfs merge=lfs -text
+dm_stuff.ipynb filter=lfs diff=lfs merge=lfs -text
+more_drwho.ipynb filter=lfs diff=lfs merge=lfs -text

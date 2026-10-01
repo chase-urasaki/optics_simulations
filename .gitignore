@@ -1,0 +1,10 @@
+*.npy
+*.npz
+*.gif
+*.mp4
+*.jpg
+*.h5
+*.pkl
+__pycache__/
+/ao_frames 
+/ao_loop_frames
